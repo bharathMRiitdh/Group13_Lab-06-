@@ -48,7 +48,6 @@ void PWM_setup(void)
     PWM1_ENABLE_R |= 0x040;                 // Enable PWM output on PF2
 }
 
-
 // Main function
 void main(void)
 {
